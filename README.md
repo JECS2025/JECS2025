@@ -7,7 +7,7 @@ Currently in resettlement phase of leaving the British Military (final 2 years o
 - CompTIA A+
 
 ## 🔗Connect With Me
-[![text](https://camo.githubusercontent.com/a82e351e2795fff29741cac3aab327bd38616a2171be0c6910c19ba0f7b1aded/68747470733a2f2f696d672e69636f6e73382e636f6d2f676c7970682d6e6575652f36342f3232384245362f6c696e6b6564696e2e706e67)]([https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/jordan-abbott-197377346/))
+[![LinkedIn](https://img.icons8.com/glyph-neue/64/228BE6/linkedin.png)](https://www.linkedin.com/in/jordan-abbott-197377346/)
 ## 👨‍🏫Projects
 
 <!---

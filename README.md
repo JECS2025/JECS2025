@@ -9,7 +9,7 @@ Currently in resettlement phase of leaving the British Military (final 2 years o
 ## 🔗Connect With Me
 [![LinkedIn](https://img.icons8.com/glyph-neue/64/228BE6/linkedin.png)](https://www.linkedin.com/in/jordan-abbott-197377346/)
 ## 👨‍🏫Projects
-
+[AD Set Up & Basic Configuration Homelab 📘](https://github.com/JECS2025/Homelabs/tree/main/AD_Setup_Basic_Config)
 <!---
 JECS2025/JECS2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

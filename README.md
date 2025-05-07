@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jordan.
 ### 💻Aspiring Cybersecurity Professional
 ## 🖋️About Me
-Currently in resettlement phase of leaving the British Military (final 2 years of a 12 year contract) with clear direction on pursuing a career within cybersecurity. I'm currently expanding my knowledge and skillsets through continuous theoretical and practical learning. My aim is to use this portfolio to showcase what I've been working on and how I've achieved the outcome. 
+Currently in resettlement with clear direction on pursuing a career within cybersecurity. I'm currently expanding my knowledge and skillsets through continuous theoretical and practical learning. My aim is to use this portfolio to showcase what I've been working on and how I've achieved the outcome. 
 
 ## 📄Certificates
 - CompTIA A+

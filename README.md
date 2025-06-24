@@ -5,6 +5,7 @@ Currently in resettlement with clear direction on pursuing a career within cyber
 
 ## 📄Certificates
 - CompTIA A+
+- Comptia N+
 
 ## 🔗Connect With Me
 [![LinkedIn](https://img.icons8.com/glyph-neue/64/228BE6/linkedin.png)](https://www.linkedin.com/in/jordan-abbott-197377346/)

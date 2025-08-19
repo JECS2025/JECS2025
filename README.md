@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jordan.
 ### 💻Aspiring Cybersecurity Professional
 ## 🖋️About Me
-Currently in resettlement with clear direction on pursuing a career within cybersecurity. I'm currently expanding my knowledge and skillsets through continuous theoretical and practical learning. My aim is to use this portfolio to showcase what I've been working on and how I've achieved the outcome. 
+Currently working as a Product Support Engineer with clear direction on pursuing a career within cybersecurity. I'm currently expanding my knowledge and skillsets through continuous theoretical and practical learning. My aim is to use this portfolio to showcase what I've been working on and how I've achieved the outcome. 
 
 ## 📄Certificates
 - CompTIA A+
@@ -10,6 +10,7 @@ Currently in resettlement with clear direction on pursuing a career within cyber
 ## 🔗Connect With Me
 [![LinkedIn](https://img.icons8.com/glyph-neue/64/228BE6/linkedin.png)](https://www.linkedin.com/in/jordan-abbott-197377346/)
 ## 👨‍🏫Projects
+- [🔐 SOC-Lab](https://github.com/JECS2025/SOC-Lab) – Simulated enterprise network with pfSense, OPNsense, SIEM, and attack detection scenarios.
 
 <!---
 JECS2025/JECS2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

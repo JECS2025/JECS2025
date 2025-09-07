@@ -10,7 +10,7 @@ Currently working as a Product Support Engineer with clear direction on pursuing
 ## 🔗Connect With Me
 [![LinkedIn](https://img.icons8.com/glyph-neue/64/228BE6/linkedin.png)](https://www.linkedin.com/in/jordan-abbott-197377346/)
 ## 👨‍🏫Projects
-- [🔐 SOC-Lab](https://github.com/JECS2025/SOC-Lab) – Simulated enterprise network with pfSense, OPNsense, SIEM, and attack detection scenarios.
+- [🔐 IronGate Solutions](https://github.com/JECS2025/SOC-Lab) – (SOC Lab) Simulated enterprise network with pfSense, OPNsense, SIEM, and attack detection scenarios.
 
 <!---
 JECS2025/JECS2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

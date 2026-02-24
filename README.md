@@ -12,7 +12,7 @@ Currently working as a Product Support Engineer with clear direction on pursuing
 ## 👨‍🏫Projects
 - [🔐 IronGate Solutions](https://github.com/JECS2025/SOC-Lab) – (SOC Lab) Simulated enterprise network with pfSense, OPNsense, SIEM, and attack detection scenarios.
 ## Reports
-- [Reports](https://github.com/JECS2025/Reports)
+- [Email Reports](https://github.com/JECS2025/Email_Reports)
 
 <!---
 JECS2025/JECS2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
